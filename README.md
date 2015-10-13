@@ -21,4 +21,4 @@ $ ruby tdemo.rb
 For demo of other languages, please customize edemo.rb or tdemo.rb
 
 # License
-The example is available under the Apache license. See LICENSE for details.
+Public Domain CC0
