@@ -1,5 +1,5 @@
 # Abstract
-Decomposing ideograms to make a Xmas tree. Use natural language and your mother tongue to program.
+Composing and decomposing ideograms to make a Xmas tree. Use natural language and your mother tongue to program.
 
 # Documentation
 [A Natural Programming Method - Programming with Natural Language](http://www.codeproject.com/Articles/835067/A-Natural-Programming-Method-Programming-with-Natu)
